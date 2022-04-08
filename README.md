@@ -1,4 +1,3 @@
-# Seminars2022
-Seminar Materials for the 2022 Hack The Ram Event
+# To download materials, click [here](https://github.com/HackTheRam/Seminars2022/archive/refs/heads/main.zip)
 
-[App Inventor](https://appinventor.mit.edu/)
+[Link to App Inventor](https://appinventor.mit.edu/)

@@ -1,0 +1,11 @@
+Name    Age    Grade    ID    Classes    Grades
+Joe Marino    18    12    65432   [Trigonometry, Calculus BC, German 5]    [92, 100, 56]
+Jack Youginer    17    11    45876    [Calculus AB, Physics, Spanish 5]    [88, 90, 89]
+Mark Rougner    17    12    32785    [Chemistry, Computer Science, German 4]    [99, 62, 89]
+Cam Waggy    16    10    57954    [Art, European History, Computer Science]    [77, 82, 100]
+Inkey Quiltner    15    9    21846    [Programming 101, Spanish 1, French 1]    [73, 54, 82]
+Howner Jones    15    9    45621    [Deep Learning 101, Calculus AB, French 2]    [89, 92, 98]
+Jackie Miller    16    10    54891    [Deep Learning 101, Calculus AB, Spanish 4]    [100, 90, 77]
+Jack Miller    17    11    55123    [Calculus BC, German 4, Physics]    [78, 92, 98]
+Eddie Mack    18    12    56482    [German 5, Spanish 5, French 5]    [100, 56, 100]
+Mary Lane    18    12    65784    [Spanish 5, Computer Science, Programming 101]    [98, 87, 88]
